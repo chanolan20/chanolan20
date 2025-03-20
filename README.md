@@ -1,6 +1,6 @@
 👋 Hi, I’m @chanolan20
 🚀 Welcome to my GitHub Profile!
-👀 I’m interested in: social media creator, AI, coding, game development, automation, etc.]
+👀 I’m interested in: social media creation, AI, coding, game development, automation, etc.]
 🌱 I’m currently learning: [New skills, technologies, or frameworks you're exploring]
 💡 I’m working on: [Your current projects or collaborations]
 💞️ I’m looking to collaborate on: [What kind of projects or open-source contributions you're open to]
